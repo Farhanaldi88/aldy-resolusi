@@ -4,3 +4,4 @@ Rencana Pembuatan Aplikasi
 - Aplikasi diagnosa
  * Diagnosa penyakit lambung
 - Aplikasi pendaftaran
+ * Aplikasi untuk rumah sakit
