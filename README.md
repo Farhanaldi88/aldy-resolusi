@@ -1,2 +1,2 @@
 # aldy-resolusi
-Repositori untuk menyimpan rencana saya sendiri
+Repository menyimpan rencana sendiri untuk kedepannya
