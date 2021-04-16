@@ -1,0 +1,4 @@
+Rencana Pembuatan Aplikasi
+- Aplikasi deteksi objek di python
+- Aplikasi diagnosa
+- Aplikasi pendaftaran
