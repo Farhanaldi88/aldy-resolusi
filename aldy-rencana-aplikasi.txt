@@ -1,0 +1,6 @@
+Rencana Pembuatan Aplikasi
+- Aplikasi deteksi objek di python
+ * deteksi object pada video
+- Aplikasi diagnosa
+ * Diagnosa penyakit lambung
+- Aplikasi pendaftaran
