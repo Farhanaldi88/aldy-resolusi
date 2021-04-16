@@ -2,6 +2,7 @@ Rencana Pembuatan Aplikasi
 - Aplikasi deteksi objek di python
  * deteksi object pada video
 - Aplikasi diagnosa
- * Diagnosa penyakit lambung
+ * Diagnosa penyakit mata dan telinga
 - Aplikasi pendaftaran
  * Aplikasi untuk rumah sakit
+  * Bank
