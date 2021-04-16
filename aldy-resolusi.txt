@@ -1,5 +1,5 @@
 Aldy Resolusi
 - Konsisten untuk belajar Android
 - Membuat paltform untuk hasil dari karya atau portofolio
-- Harus mempunyai pekerjaan pada tahun ini (2021)
 - Mempunyai brand
+- Membuat applikasi pendaftaran
