@@ -5,4 +5,4 @@ Rencana Pembuatan Aplikasi
  * Diagnosa penyakit mata dan telinga
 - Aplikasi pendaftaran
  * Aplikasi untuk rumah sakit
-  * Bank
+
